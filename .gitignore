@@ -1,0 +1,15 @@
+# Sensitive Credentials
+.env
+
+# Python Cache (Makes your repo cleaner)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit logs
+.streamlit/
+
+# OS hidden files
+.DS_Store
+Thumbs.db
