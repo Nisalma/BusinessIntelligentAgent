@@ -7,7 +7,7 @@ Data is just noise until you give it a voice. Over the past few weeks, I’ve be
 Here is the breakdown of how I built the pipeline from scratch:
 
  Stage 1: The Foundation (Engineering)
-I started with a massive raw dataset from Kaggle. Using Google Colab, I performed the initial "surgery"—handling missing values and refining features to prepare the data for a professional environment. Once the data was pristine, I migrated it to MySQL, where I built structured views and performed the queries necessary to extract core business KPIs.
+I started with a massive raw dataset from Kaggle. Using Google Colab, I performed the initial handling missing values and refining features to prepare the data for a professional environment. Once the data was pristine, I migrated it to MySQL, where I built structured views and performed the queries necessary to extract core business KPIs.
 
  Stage 2: The Visual Layer (Power BI)
 With a solid SQL backbone, I first moved into Power BI. I developed a dashboard to handle the heavy historical lifting—mapping out global sales and market share. While this gave me a great "Big Picture," I realized that static charts can't answer "What's next?" I wanted something interactive and alive.
