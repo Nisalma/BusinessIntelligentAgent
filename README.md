@@ -30,6 +30,9 @@ Data Cleaning: Google Colab / Pandas
 Database: MySQL (Relational Schema)
 
 BI & Visualization: Power BI (DAX)
+
+<img width="1168" height="657" alt="correct ss" src="https://github.com/user-attachments/assets/cfc89a21-9bd0-4866-8717-e808835e77f7" />
+
 Frontend: Streamlit (Python)
 Predictive Model: Scikit-Learn (Linear Regression)
 Security: Environment Variables (.env) for credential protection.
